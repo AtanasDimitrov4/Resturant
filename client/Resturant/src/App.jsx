@@ -1,4 +1,4 @@
-import RestaurantMenu from "./RestaurantMenu"; 
+import RestaurantMenu from "./components/ResturnatMenu"; 
 
 function App() {
   return (

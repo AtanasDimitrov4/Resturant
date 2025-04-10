@@ -17,8 +17,8 @@ export default function RestaurantMenu() {
   return (
     <div className="min-h-screen bg-gray-100 p-6">
       <header className="text-center mb-10">
-        <h1 className="text-4xl font-bold text-gray-800">Delizia Restaurant</h1>
-        <p className="text-gray-500">Authentic tastes, unforgettable experiences</p>
+        <h1 className="text-4xl font-bold text-gray-800">Restorant</h1>
+        <p className="text-gray-500">It Taste Delicius</p>
         <button
           onClick={fetchPlates}
           className="mt-4 px-6 py-2 bg-indigo-600 text-white rounded-xl hover:bg-indigo-700 transition"
