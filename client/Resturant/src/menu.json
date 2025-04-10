@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "menuItem": "Shkembe soup",
+      "description": "We prepare it according to a classic recipe on site with quality beef tripe, real fresh milk, butter and paprika!",
+      "price": "8.00lv"
+    },
+    {
+      "id": 2,
+      "menuItem": "Fried potatoes with cheese",
+      "description": "We know you like it",
+      "price": "10lv"
+    },
+    {
+      "id": 3,
+      "menuItem": "Mushrooms with rice and vegetables in the oven",
+      "description": "Freshly picked mushrooms from the forest, vegetables from the yard and rice imported from China",
+      "price": "9lv"
+    }
+  ]
+  
