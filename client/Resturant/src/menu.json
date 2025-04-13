@@ -19,6 +19,19 @@
       "description": "Freshly picked mushrooms from the forest, vegetables from the yard and rice imported from China",
       "price": "9lv",
       "image":"https://www.budgetbytes.com/wp-content/uploads/2021/11/Mushroom-Rice-V2.jpg" 
+    },
+    {
+      "id": 4,
+      "menuItem": "Kozunak",
+      "description": "Home-baked sweet bread",
+      "price": "8.50lv"
+    },
+    {
+      "id": 5,
+      "menuItem": "Mekici",
+      "description": "Directly from the childhood memories",
+      "price": "2.00lv"
     }
+
   ]
   
