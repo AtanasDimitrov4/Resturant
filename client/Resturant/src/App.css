@@ -1,1 +1,37 @@
-@import "tailwindcss";
+.app {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    text-align: center;
+}
+
+.header {
+    margin-top: 30px;
+}
+
+.plate-grid {
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.plate-card {
+    border: 10px solid;
+    padding: 15px;
+    width: 250px;
+    border-radius: 20px;
+
+}
+
+.plate-image {
+    width: 60%;
+    height:fit-content;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.footer {
+    font-size: 10px;
+    margin-bottom: 30px;
+    color: maroon;
+}
