@@ -5,7 +5,7 @@ export default function App() {
   const [dishes, setDishes] = useState([]);
 
   useEffect(() => {
-    fetch("plates.json")
+    fetch("menu.json")
     .then((result) => result.json())
     .then((data)) => setDishes(data))
     .catch((err)) => console.error("Faild to fetch plates", err));
